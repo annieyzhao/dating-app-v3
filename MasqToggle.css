@@ -1,0 +1,24 @@
+Button {
+  display: block;
+  background: white;
+  color: black;
+  font-size: 13px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 30px auto 15px;
+  padding: 5px;
+  border: white;
+}
+
+.togglButton {
+  display: block;
+  background: white;
+  color: black;
+  font-size: 13px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 30px auto 15px;
+  padding: 15px;
+  border-bottom: purple;
+}
+
+.toggle {
+}

@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 180%;
+  /* identical to box height, or 27px */
+
+  text-align: center;
+  letter-spacing: 1px;
+
+  color: #88007a;
+}
+
+.subtitle {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 22px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+
+  color: #000000;
+}

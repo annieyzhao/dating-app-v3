@@ -1,0 +1,143 @@
+.twoTruths {
+  height: 545px;
+  overflow: scroll;
+
+}
+
+.twoTruths__message {
+  display: flex;
+  align-items: center;
+  padding: 0px;
+}
+
+.twoTruths__text {
+  margin-left: 10px;
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.twoTruths__text:focus {
+  margin-left: 10px;
+  background-color: lightgreen;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.twoTruths__timestamp {
+  text-align: center;
+  padding: 20px;
+  color: gray;
+}
+
+.twoTruths__textUser {
+  margin-right: 0px;
+  background-color: lightskyblue;
+  padding: 10px;
+  border-radius: 15px;
+  color: white;
+}
+
+.twoTruths__textUser:focus {
+  margin-right: 0px;
+  background-color: red;
+  padding: 15px;
+  border-radius: 15px;
+  color: white;
+}
+
+
+.twoTruths__input {
+  display: flex;
+  padding: 0px;
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  border-top: 1px solid lightgray;
+
+}
+
+.twoTruths__inputField {
+  flex: 1;
+  padding: 10px;
+  border: none;
+}
+
+.twoTruths__inputButton {
+  border: none;
+  margin-right: 20px;
+  background-color: white;
+  color: purple;
+  padding: 12px;
+}
+
+.twoTruths__remind{
+  padding: 0px;
+  font: bolder;
+  font-size: 20px;
+  color: purple;
+}
+
+.questions {
+
+}
+
+.questions__textUser {
+  display: flex;
+  padding: 20px;
+  font: bolder;
+  background: rgb(224, 188, 224);
+  box-shadow: 0px 0px 15px rgba(136, 0, 122, 0.19);
+  border-radius: 20px;
+  font-size: 18px;
+  color: purple;
+}
+
+.questions__text {
+  display: flex;
+  padding: 20px;
+  font: bolder;
+  background: rgb(224, 188, 224);
+  box-shadow: 0px 0px 15px rgba(136, 0, 122, 0.19);
+  border-radius: 20px;
+  font-size: 18px;
+  color: purple;
+}
+
+.questions__textUser:focus {
+  margin-left: 10px;
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.questions__text:focus {
+  margin-left: 10px;
+  background-color: lightgray;
+  padding: 10px;
+  border-radius: 15px;
+}
+
+.twoTruths__next{
+  display: flex;
+  margin-left: 10px;
+  padding: 20px;
+  font: bolder;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 15px rgba(136, 0, 122, 0.19);
+  border-radius: 20px;
+  font-size: 18px;
+  color: purple;
+}
+
+.twoTruths__done{
+  display: flex;
+  margin-left: 10px;
+  padding: 30px;
+  font: bolder;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 15px rgba(136, 0, 122, 0.19);
+  border-radius: 20px;
+  font-size: 18px;
+  color: purple;
+}

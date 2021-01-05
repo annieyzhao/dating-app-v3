@@ -1,0 +1,25 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #f9f9f9;
+  position: fixed;
+  background-color: white;
+  top:0px;
+  right:0px;
+  left:0px;
+  box-shadow: 0px 4px 20px rgba(193, 193, 193, 0.25);
+}
+
+.header__icon {
+  padding: 15px;
+  background-color: white;
+  margin-left: 10px;
+  margin-right: 300px;
+}
+
+.titleHeader {
+  font-size: 20px;
+  padding: 0px;
+  background-color: white;
+}

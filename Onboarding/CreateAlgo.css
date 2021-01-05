@@ -1,0 +1,9 @@
+h5 {
+  justify-content: space-between;
+  padding: 5px;
+  font-size: 15px;
+  margin-top: 40px;
+  color: purple;
+  text-transform: uppercase;
+  font-weight: bold;
+}
